@@ -24,10 +24,7 @@ astronomical images generated at the Calar Alto Hispano-German Astronomical Cent
 in Almería, also with the aim of improving remote observation processes.
 
 Subsequently, I have applied the JPEG2000 image compression standard in environments
-interactive transmission of images. In connection with this, in 2010 I participated in the
-development of a JPIP (JPEG2000 Interactive Protocol) server that ESA (European
-Space Agency) has used in its project [JHelioviewer](https://www.jhelioviewer.org/).
-In this line of work, I have continued to collaborate with ESA for the
+interactive transmission of images. I continued to collaborate with ESA for the
 development of algorithms of streaming JPEG2000 image sequences.
 
 I have also collaborated in studies of compression of hyperspectral images of the Earth.
@@ -41,7 +38,11 @@ These techniques have application to interactive transmission of images.
 Currently I am working in the processing of electron microscopy images, and in the
 development of symmetric video codecs.
 
-In a field somewhat more related to the development of free software, I have contributed to the
+In a field somewhat more related to the development of free software, 
+in 2010 I participated in the
+development of a JPIP (JPEG2000 Interactive Protocol) server that ESA (European
+Space Agency) has used in its project [JHelioviewer](https://www.jhelioviewer.org/).
+I have also contributed to the
 development of a P2P (Peer-to-Peer) communications protocol called [P2PSP](http://www.p2psp.org)
 (P2P Straightforward Protocol). This protocol allows emulating the
 behavior of IP (Internet Protocol) Multicast, achieving a streaming system
