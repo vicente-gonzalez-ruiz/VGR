@@ -11,40 +11,42 @@ the
 [Supercomputing-Algorithms Research Group](https://www.hpca.ual.es/)
 of the University of Almería.
 
-## Research career 
+## Research
 
-My research focuses on image and video encoding, as well as their
-transmission over data networks based on packet switching.
-Initially I worked on progressive image coding algorithms
-(mainly based on SPIHT (Set Partitioning In Hierarchical Trees)) which were
-applied in electron microscopy images, in collaboration with CNB (Cento Nacional de Biotecnología)
-scientists of the CSIC (Consejo Superior de Investigaciones Científicas), with the purpose of
-remotely managing a electronic microscope. These encoding algorithms were also applied to
-astronomical images generated at the Calar Alto Hispano-German Astronomical Center
-in Almería, also with the aim of improving remote observation processes.
+### Image/Video coding and transmission:
 
-Subsequently, I have applied the JPEG2000 image compression standard in environments
-interactive transmission of images. I continued to collaborate with ESA for the
-development of algorithms of streaming JPEG2000 image sequences.
+In the early 1990's, I started working on transform-based image
+compression algorithms capable of being scalable in progressive
+streaming environments. It was then that I began my collaboration with
+researchers from the CNB (National Center for Biotechnology) in order
+to improve remote interactive access to electron microscopes. These
+coding algorithms were also used at the Calar Alto Hispano-German
+Astronomical Center in this case to optimize the use of the
+telescopes.
 
-I have also collaborated in studies of compression of hyperspectral images of the Earth.
-In the field of video encoding, my work has focused on improving the rate of
-compression of the Motion JPEG2000 standard using MCTF (Motion Compensated Temporal
-Filtering). We develop an extension compatible with the standard that does not imply altering the
-JPIP servers. Also related to this field, I have worked on algorithms of
-JPIP-based streams that use conditional refresh and do not involve modifying Motion JPEG2000 code-streams.
-These techniques have application to interactive transmission of images.
+Next, I was working with researchers from the JHelioviewer project
+(https://www.jhelioviewer.org/) which was an initiative promoted by
+the ESA (European Space Agency) to study the Sun, to improve the
+interactive access system to solar images, in this case taking
+advantage of the possibilities of progressive rendering provided by
+the JPEG2000 image compression standard. Following in the line of
+progressive image transmission, we also use this standard in
+hyperspectral images.
 
-Currently I am working in the processing of electron microscopy images, and in the
-development of symmetric video codecs.
+Specifically in the field of secure transmission of multimedia
+content, I have worked on multicast streaming protocols based on the
+P2P (Peer-to-Peer) model, and I collaborated in the specification of
+the P2PSP protocol (https://es.wikipedia.org /wiki/P2PSP), which was
+funded by Google through its Google Summer of Code program (years
+2015, 2016, 2017 and 2018).
 
-In a field somewhat more related to the development of free software, 
-in 2010 I participated in the
-development of a JPIP (JPEG2000 Interactive Protocol) server that ESA (European
-Space Agency) has used in its project [JHelioviewer](https://www.jhelioviewer.org/).
-I have also contributed to the
-development of a P2P (Peer-to-Peer) communications protocol called [P2PSP](http://www.p2psp.org)
-(P2P Straightforward Protocol). This protocol allows emulating the
-behavior of IP (Internet Protocol) Multicast, achieving a streaming system
-efficient, secure and scalable. P2PSP was developed with funds from the Google program
-Summer of Code during the years 2015, 2016, 2017 and 2018.
+### Image processing:
+
+In collaboration with scientists of the CSIC, I worked on the
+improvement of the quality of images obtained in the field of
+microscopy. We used motion estimation algorithms based on the
+computation of the optical flow to interpolate missing images in
+FIB/SEM (Focused Ion Beam - Scanning Electron Microscopy) analysis.
+
+Currently we are developing denoising algorithms that preserve the
+structure of the specimens in Electron Microscopy images.
