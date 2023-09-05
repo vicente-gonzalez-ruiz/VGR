@@ -51,6 +51,12 @@ FIB/SEM (Focused Ion Beam - Scanning Electron Microscopy) analysis.
 Currently we are developing denoising algorithms that preserve the
 structure of the specimens in Electron Microscopy images.
 
+## Education
+
+* PhD in Computer Engineering by the University of Almería (2000)
+* Licensed in Computer Science by the University of Granada (1992)
+* Graduate in Computer Science by the University of Granada (1990)
+
 ## keywords
 
 Image and video coding, multimedia transmission, signal processing.
