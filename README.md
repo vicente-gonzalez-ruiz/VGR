@@ -50,3 +50,7 @@ FIB/SEM (Focused Ion Beam - Scanning Electron Microscopy) analysis.
 
 Currently we are developing denoising algorithms that preserve the
 structure of the specimens in Electron Microscopy images.
+
+## keywords
+
+Image and video coding, multimedia transmission, signal processing.
