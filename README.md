@@ -1,62 +1,46 @@
-# Dr. Vicente Gonzalez-Ruiz
+# Vicente Gonzalez-Ruiz
 
 ## Biography
 
-Vicente González-Ruiz is associate professor in the Informatics
+Dr. Vicente González-Ruiz is associate professor in the Informatics
 Department of the University of Almería. He received an M.Sc. degree
 in computer science from the University of Granada in 1992, and a
-Ph.D. degree in computer science from the University of Almería
-in 2000. He is a member of
-the
-[Supercomputing-Algorithms Research Group](https://www.hpca.ual.es/)
-of the University of Almería.
+Ph.D. degree in computer science from the University of Almería in
+2000. He is a member of the [Supercomputing-Algorithms Research
+Group](https://www.hpca.ual.es/) of the University of Almería.
 
-## Research
+Dr. González-Ruiz has experience in image and video coding and
+transmision, contributing to open source projects such as the P2PSP
+protocol (https://es.wikipedia.org /wiki/P2PSP), the Google Summer of
+Code program, the ESA Summer of Code in Space program, and the
+JHelioviewer project (https://www.jhelioviewer.org/). He has been
+working also in signal processing applications, specifically in
+interpolation and denoising algorithms used in microscopy. He is also
+contributing to the development of AI applications designed to help
+disabled people, such as detecting falls of improving the interaction
+of user in smart environments. He works also experience in the
+development of sofware used in astronomical centers.
 
-### Image/Video coding and transmission:
+Apart from his interaction with researches of the
+Supercomputación-Algoritmos research group, Dr. González-Ruiz has
+collaborated with the CSIC in the field of image transmission and
+denoising, with the ESA in the field of image coding and transmission
+(JHelioviewer project), and with the Centro Astronómico de Calar Alto
+(Almería) in the field of image acquisition and processing, among
+other universities and research centers.
 
-In the early 1990's, I started working on transform-based image
-compression algorithms capable of being scalable in progressive
-streaming environments. It was then that I began my collaboration with
-researchers from the CNB (National Center for Biotechnology) in order
-to improve remote interactive access to electron microscopes. These
-coding algorithms were also used at the Calar Alto Hispano-German
-Astronomical Center in this case to optimize the use of the
-telescopes.
+As it can be ckecked in its [Curriculum
+Vitae](https://vicente-gonzalez-ruiz.github.io/ridiculum/),
+Dr. González Ruiz as co-authored at least 100 research papers, of
+which at least 19 has been published in JCR-indexed journals. He has
+participated in at least 27 reseach projects, being the IP in at least
+one of them. He has participated in at leas 11 transference
+open-projects, being the IP in at least 9 of them. He has participated
+in at least 5 contracts, 3 as IP. He is the IP of the Unidad de
+Supercomputación, Procesamiento de Imagen y Nanotomografía (USPIN). He
+has supervised 5 PhD thesis and is supervising another 5.
 
-Next, I was working with researchers from the JHelioviewer project
-(https://www.jhelioviewer.org/) which was an initiative promoted by
-the ESA (European Space Agency) to study the Sun, to improve the
-interactive access system to solar images, in this case taking
-advantage of the possibilities of progressive rendering provided by
-the JPEG2000 image compression standard. Following in the line of
-progressive image transmission, we also use this standard in
-hyperspectral images.
+As a teacher, Dr. González-Ruiz has more then 30 years of experience
+at the UAL in more than 10 different subjects and have supervised more
+than 30 final degree projects.
 
-Specifically in the field of secure transmission of multimedia
-content, I have worked on multicast streaming protocols based on the
-P2P (Peer-to-Peer) model, and I collaborated in the specification of
-the P2PSP protocol (https://es.wikipedia.org /wiki/P2PSP), which was
-funded by Google through its Google Summer of Code program (years
-2015, 2016, 2017 and 2018).
-
-### Image processing:
-
-In collaboration with scientists of the CSIC, I worked on the
-improvement of the quality of images obtained in the field of
-microscopy. We used motion estimation algorithms based on the
-computation of the optical flow to interpolate missing images in
-FIB/SEM (Focused Ion Beam - Scanning Electron Microscopy) analysis.
-
-Currently we are developing denoising algorithms that preserve the
-structure of the specimens in Electron Microscopy images.
-
-## Education
-
-* PhD in Computer Engineering by the University of Almería (2000)
-* Licensed in Computer Science by the University of Granada (1992)
-* Graduate in Computer Science by the University of Granada (1990)
-
-## keywords
-
-Image and video coding, multimedia transmission, signal processing.
