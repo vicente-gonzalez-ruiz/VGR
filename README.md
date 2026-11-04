@@ -5,8 +5,7 @@
 **Dr. Vicente González-Ruiz** is an Associate Professor in the
 Informatics Department at the University of Almería. He earned his
 M.Sc. in Computer Science from the University of Granada in 1992 and
-his Ph.D. in Computer Science from the University of Almería in
-2000. 
+his Ph.D. in Computer Science from the University of Almería in 2000. 
 
 With extensive expertise in image and video coding and transmission,
 as a member of the [Supercomputing-Algorithms Research
