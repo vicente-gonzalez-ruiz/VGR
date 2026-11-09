@@ -25,8 +25,8 @@ Summer of Code in
 Space](https://www.esa.int/articles/socis-the-esa-summer-of-code-in-space),
 and the [JHelioviewer project](https://www.jhelioviewer.org/). He has
 collaborated with the [Calar Alto Astronomical Observatory
-(CAHA)](https://www.caha.es/es/) in the development of software. He
-has [supervised 5
+(CAHA)](https://www.caha.es/es/) in the development of telescopes
+control software. He has [supervised 5
 Ph.D. dissertations](https://vicente-gonzalez-ruiz.github.io/ridiculum/#x1-2200011)
 and is currently [advising 6
 more](https://vicente-gonzalez-ruiz.github.io/ridiculum/#x1-2200011).
