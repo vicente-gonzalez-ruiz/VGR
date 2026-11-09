@@ -33,4 +33,4 @@ more](https://vicente-gonzalez-ruiz.github.io/ridiculum/#x1-2200011).
 
 Dr. González-Ruiz brings over 30 years of [teaching
 experience](https://vicente-gonzalez-ruiz.github.io/ridiculum/#x1-2300013)
-to the University of Almería.
+to the University of Granada and University of Almería.
